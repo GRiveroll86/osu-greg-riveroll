@@ -1,0 +1,46 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    background-color: slategray;
+}
+
+header {
+    text-align: center;
+    background-color: yellowgreen;
+    border: 5px solid lightblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#topmenu li {
+    display: inline;
+    padding: 5px;
+}
+
+figure {
+    text-align: center;
+}
+
+img {
+    border: 5px solid lightblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 32px;
+}
+
+section {
+    text-align: center;
+    padding: 2px;
+}
